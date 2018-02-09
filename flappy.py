@@ -37,7 +37,7 @@ classifier.add(Dense(1, init='uniform', activation='sigmoid'))
 classifier.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 classifier.summary()
 
-classifier.fit(X, Y, batch_size = 10, epochs = 10)
+classifier.fit(X, Y, batch_size = 10, epochs = 4)
 
 #Y_pred = classifier.predict(X_test)
 #y_pred = (Y_pred > 0.17)
@@ -48,10 +48,10 @@ flapData = []
 X_TEST = 0
 Y_TEST = 0
 BOTTLENECK_GAP = 75
-FLAP_LEVEL = 0.04
-PIPEGAPSIZE  = 120
+FLAP_LEVEL = 0.2
+PIPEGAPSIZE  = 100
 
-FPS = 30
+FPS = 60
 SCREENWIDTH  = 288
 SCREENHEIGHT = 512
 # amount by which base can maximum shift to left
@@ -412,9 +412,9 @@ def showGameOverScreen(crashInfo):
     """crashes the player down ans shows gameover image"""
     print('GAMEOVER')
     print(len(flapData))
-    df = pd.DataFrame(flapData[148:])
+    """df = pd.DataFrame(flapData[148:])
     df.to_csv('flappyData.csv', mode='a', index=False, header=False)
-    flapData.clear()
+    flapData.clear()"""
     
     score = crashInfo['score']
     playerx = SCREENWIDTH * 0.2
