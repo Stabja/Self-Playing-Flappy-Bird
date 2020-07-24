@@ -18,6 +18,6 @@ How-to
 ScreenShot
 ----------
 
-![Flappy Bird](https://i.ibb.co/vDSFYHb/Ford-Mustang.jpg)
+![Flappy Bird](screenshot1.png)
 
 [1]: http://www.pygame.org
