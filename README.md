@@ -18,6 +18,6 @@ How-to
 ScreenShot
 ----------
 
-![Flappy Bird](screenshot1.png)
+![Flappy Bird](https://drive.google.com/file/d/0BwcoMJ0DNQ-RTFo5QTlFa2MtZU0/view?usp=sharing)
 
 [1]: http://www.pygame.org
