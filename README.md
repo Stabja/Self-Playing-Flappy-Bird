@@ -1,7 +1,7 @@
 Self Playing Flappy Bird
 ===============
 
-Flappy Bird playing from itself, made using Keras as Tensorflow backend. Dataset is already there and model is already trained.
+Flappy Bird playing from itself, made using Keras with Tensorflow backend. Dataset is already there and model is already trained.
 It can undergo reinforcement learning but a slight initial push is required with 10 values at the begining.
 
 How-to
