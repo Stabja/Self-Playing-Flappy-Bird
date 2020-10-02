@@ -17,6 +17,6 @@ How-to
 Link to video
 -------------
 
-[![Flappy Bird](screenshot1.png)](https://www.youtube.com/watch?v=cGK9qheEiw0)
+[![Flappy Bird](videolink.png)](https://www.youtube.com/watch?v=cGK9qheEiw0)
 
 [1]: http://www.pygame.org
