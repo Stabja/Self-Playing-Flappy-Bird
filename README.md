@@ -14,9 +14,10 @@ How-to
 
 
 
-ScreenShot
-----------
+Link to video
+-------------
 
+[![Flappy Bird](https://www.youtube.com/watch?v=cGK9qheEiw0/screenshot1.jpg)]
 ![Flappy Bird](screenshot1.png)
 
 [1]: http://www.pygame.org
