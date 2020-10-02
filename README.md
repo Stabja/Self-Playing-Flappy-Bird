@@ -12,9 +12,11 @@ How-to
 3. Clone this repository.
 4. Run `flappy.py` from the repo's directory
 
+
+
 ScreenShot
 ----------
 
-![Flappy Bird](screenshot1.png)
+![Flappy Bird](https://www.youtube.com/watch?v=cGK9qheEiw0)
 
 [1]: http://www.pygame.org
