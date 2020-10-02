@@ -17,6 +17,6 @@ How-to
 ScreenShot
 ----------
 
-![Flappy Bird](https://www.youtube.com/watch?v=cGK9qheEiw0)
+[Flappy Bird](https://www.youtube.com/watch?v=cGK9qheEiw0)
 
 [1]: http://www.pygame.org
